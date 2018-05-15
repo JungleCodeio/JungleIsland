@@ -1,0 +1,22 @@
+{
+  "name": "jungleisland",
+  "version": "1.0.0",
+  "description": "jungleisland website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crnisamuraj/JungleIsland.git"
+  },
+  "author": "junglecode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junglecodeio/JungleIsland/issues"
+  },
+  "homepage": "https://github.com/junglecodeio/JungleIsland#readme",
+  "dependencies": {
+    "total.js": "^2.9.4"
+  }
+}
